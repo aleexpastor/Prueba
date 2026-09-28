@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola, este es mi index.php";
+echo "Cambio realizado por Alex";
 
 ?>
